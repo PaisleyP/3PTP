@@ -8,3 +8,12 @@ in and what areas they can focus on next.
 [VERSION]-[DATE]-[CONTRIBUTOR]
 -Type of Change: Brief describtion
 -Ect.
+
+[E.g.] *Cav change as needed*
+V0.1.1-3APR15-BeerCav
+-Minecraft environment set: 1.7.10
+-Forge environment set: 1347
+-Added Mod: Custom NPCs
+            Custom Main Menu
+-Main menu change: Added '3PTP' splash
+                   Tweaked layout and colours
