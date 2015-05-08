@@ -22,8 +22,8 @@ This is simply a sign up for this pack atm so we can have some organization.
 Also, once we get started I will post in the creation forum section so that regular members can not only keep up with the pack but if they are so inclined (as we know most of them are) they can throw some ideas/opinions in.
 
 1. BeerCav
-2. Dungeonmaster372 - - - In Dev
-3. PaisleyPlayfully
+2. Dungeonmaster372
+3. PaisleyPlayfully - - - In Dev
 4. Gideonseymour
 5. Chaka
 6. Putzaroo
