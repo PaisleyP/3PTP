@@ -23,8 +23,8 @@ Also, once we get started I will post in the creation forum section so that regu
 
 1. BeerCav
 2. Dungeonmaster372
-3. PaisleyPlayfully - - - In Dev
-4. Gideonseymour
+3. PaisleyPlayfully
+4. Gideonseymour - - - In Dev
 5. Chaka
 6. Putzaroo
 7. Brizzle
